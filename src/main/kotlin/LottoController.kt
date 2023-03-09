@@ -1,4 +1,3 @@
-
 import domain.LottoCount
 import domain.Money
 import domain.Purchaser
